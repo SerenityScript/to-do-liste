@@ -42,7 +42,7 @@
     <a href="https://github.com/SerenityScript/to-do-liste"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SerenityScript/to-do-liste">View Demo</a>
+    <a href="https://to-do-liste-react.netlify.app/">View Demo</a>
   </p>
 </div>
 
